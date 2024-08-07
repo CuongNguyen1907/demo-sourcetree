@@ -1,2 +1,0 @@
-Hello test2
-Test feature tạo branch mới và merge
